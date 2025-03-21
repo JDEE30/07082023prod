@@ -1,5 +1,6 @@
 # Remote Job Finder
 
+## DISCLAIMER: API IN USE FOR THIS APPLICATION APPEARS TO BE DEPRECATED. THIS APP HAS REACHED EOL
 This is an Angular web application that allows users to search for remote jobs across various industries. It integrates job listing APIs and presents results with filtering options to help users find their ideal remote work opportunities.
 
 ## Features
